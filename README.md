@@ -1,6 +1,7 @@
-# Test Server
+# express-server-configurable
+## Configurable Express Test Server
 
-Express server that has endpoints for testing.
+Express server that has endpoints for testing and that can store configured state.
 
 ### Data
 Data is stored in the data.json file
@@ -45,4 +46,3 @@ Data is stored in the data.json file
 
 
 
-# express-server-configurable
